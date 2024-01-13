@@ -1,0 +1,2 @@
+1、Do the CLT：Write a Python code to simulate the Central Limit Theorem, see lecture slide for this. 
+2、Do the he Birthday problem：Write a Python code to simulate the Birthday problem mention in class. 
